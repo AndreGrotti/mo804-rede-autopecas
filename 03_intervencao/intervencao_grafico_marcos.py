@@ -8,7 +8,7 @@ SALVAR_FIG = "/home/candre/dados/rede/disciplina/serie/resultados/intervencao_ma
 
 # (início, fim ou None, código, descrição, cor). Fim = None -> linha pontilhada; com fim -> barra na base.
 MARCOS = [
-    ("2018-01-01", "2018-12-31", "a", "notificação das 35 sementes (ao longo de 2018)", "tab:green"),
+    ("2018-01-01", "2018-12-31", "a", "fiscalização notificada às 35 sementes (ao longo de 2018)", "tab:green"),
     ("2018-05-21", None,         "b", "greve dos caminhoneiros (21 a 31/mai/2018)", "tab:purple"),
     ("2018-04-25", "2019-12-31", "c", "crise cambial e recessão na Argentina, principal destino dos veículos (2018–19)", "tab:olive"),
     ("2019-12-31", None,         "1", "China comunica o surto de Wuhan (31/dez/2019)", "tab:red"),
